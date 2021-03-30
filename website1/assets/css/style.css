@@ -1,3 +1,23 @@
 body{
     background: #BDBDBD;
 }
+.nav-link {
+    font-size: 120%;
+}
+
+.row1 {
+    margin-top: 5%;
+}
+
+.img {
+    border-bottom:red;
+    margin-bottom: 5%;
+}
+
+.card-title {
+    font-size: 900%;
+}
+
+.size {
+    font-size: 400%;
+}
