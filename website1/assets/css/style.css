@@ -9,15 +9,14 @@ body{
     margin-top: 5%;
 }
 
-.img {
-    border-bottom:red;
+.foto {
     margin-bottom: 5%;
 }
 
-.card-title {
+.arriba {
     font-size: 900%;
 }
 
-.size {
+.bajo {
     font-size: 400%;
 }
